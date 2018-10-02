@@ -1,0 +1,14 @@
+* {
+  -webkit-transition: all .3s ease;
+  -o-transition: all .3s ease;
+  transition: all .3s ease; }
+
+header {
+  position: absolute; }
+
+.section1 {
+  width: 100vw;
+  height: 100vh;
+  background: url(../img/Layer-2.jpg);
+  -webkit-background-size: 100% 100%;
+          background-size: 100% 100%; }
